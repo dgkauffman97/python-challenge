@@ -1,4 +1,4 @@
-Canditate	Votes	Percentage
+Candidate	Votes	Percentage
 Charles Casper Stockham	85213	23.04854332167558
 Diana DeGette	272892	73.81224794501652
 Raymon Anthony Doane	11606	3.1392087333079077
