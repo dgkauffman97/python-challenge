@@ -1,0 +1,10 @@
+Data Type	Value
+Total Months	86
+Total	22564198
+Average Change	-8311.105882352942
+Greatest Increase in Profits	"Date              Mar-13
+Profit/Losses    1141840
+Name: 38, dtype: object"
+Greatest Decrease in Profit	"Date               Dec-10
+Profit/Losses    -1194133
+Name: 11, dtype: object"
